@@ -1,14 +1,14 @@
 ---
 title: Cara Setting Hotspot Mikrotik
 subtitle: Cara mudah setting hotspot dengan mudah
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 summary: ""
 draft: false
 featured: false
 authors:
   - admin
   - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
   - 开源
@@ -20,7 +20,7 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: hex_lite.jpg
 ---
 <!--StartFragment-->
