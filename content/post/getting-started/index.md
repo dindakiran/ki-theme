@@ -17,7 +17,7 @@ categories:
   - 教程
 projects: []
 image:
-  caption: ""
+  caption: https://i.pinimg.com/originals/04/c5/ae/04c5ae01f5ae97af44b4c4b5fe3fb460.jpg
   focal_point: ""
   placement: 2
   preview_only: true
